@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adeem-delivery-batna.vercel.app/sitemap.xml
